@@ -199,6 +199,7 @@ footer a:focus-visible{
 }
 
 @media (max-width: 480px) {
+    
     h1{
         font-size: 1.8em;
         font-weight: 600;
